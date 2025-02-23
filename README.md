@@ -1,5 +1,5 @@
 # HKRG
-Paper: 'HKRG: Hierarchical Knowledge Integration for Radiology Report Generation' (Under review at ESWA).
+Paper: 'HKRG: Hierarchical Knowledge Integration for Radiology Report Generation' (ESWA).
 
 Currently, the data preprocessing pipeline is publicly available.
 
