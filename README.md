@@ -3,4 +3,4 @@ Paper: 'HKRG: Hierarchical Knowledge Integration for Radiology Report Generation
 
 Currently, the data preprocessing pipeline is publicly available.
 
-If accepted, the code will be open-sourced.
+Rushing to finish a paper.（I will open-source the code after completion. Please wait a moment.）
